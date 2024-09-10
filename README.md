@@ -23,12 +23,12 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ecomzy.git
+   git clone https://github.com/rishika105/shop-app-redux.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd ecomzy
+   cd shop-app-redux
    ```
 
 3. **Install dependencies**:
